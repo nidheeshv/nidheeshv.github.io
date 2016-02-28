@@ -749,7 +749,7 @@ header.nav.hide-menu {
 }
 
 .skill-left {
-    margin-top: 136px;
+    /*margin-top: 136px;*/
 }
 
 .skill-left p {
@@ -863,6 +863,10 @@ header.nav.hide-menu {
     bottom: 7.5%;
     top: auto;
     right: 4%;
+}
+
+.skillbar-container {
+    margin-top: -50px;
 }
 
 
@@ -1206,6 +1210,10 @@ header.nav.hide-menu {
 .sweet-alert button {
     border-radius: 4px;
     box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12) !important;
+}
+
+.raise-contact {
+    margin-top: -70px;
 }
 
 
